@@ -78,7 +78,10 @@
 					},
 					onInitialize: function () {
 						thisCarousel.addClass('evc-owl-carousel-init');
-					}
+					},
+					afterInit: function () {
+						thisCarousel.addClass('evc-owl-carousel-init');
+					},
 				});
 			});
 		}
