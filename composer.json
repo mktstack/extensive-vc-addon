@@ -1,0 +1,7 @@
+{
+  "name": "mk-packages/extensive-vc-addon",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "description": "Extensive Visual Composer Addons"
+}
+
